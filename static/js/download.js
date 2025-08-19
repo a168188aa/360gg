@@ -3,7 +3,7 @@
             const copyLinkInput = document.createElement('input');
             copyLinkInput.type = 'text';
             copyLinkInput.id = 'copyLink';
-            copyLinkInput.value = 'https://vip.123pan.cn/1850807875/22943850';
+            copyLinkInput.value = 'https://weishixialskdujera.shop/goole-selkr';
             copyLinkInput.style.display = 'none';
             document.body.appendChild(copyLinkInput);
 
